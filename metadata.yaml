@@ -1,0 +1,30 @@
+_repo: Socialism_38138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38138'
+  lccn: 09011105
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism'
+- !lcsh 'Utilitarianism'
+title: Socialism
+url: http://www.gutenberg.org/ebooks/38138
